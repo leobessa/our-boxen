@@ -39,6 +39,6 @@ class people::leobessa {
     source => 'https://s3.amazonaws.com/github-ops/vagrant/squeeze64-6.0.7-vmware_fusion.box'
   }
 
-  class { 'nodejs::global': version => 'v0.10.18' }
+  nodejs { 'v0.10.8': }
   nodejs::module { 'bower': node_version => 'v0.10' }
 }
