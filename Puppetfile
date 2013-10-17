@@ -55,3 +55,21 @@ github "xquartz",    "1.1.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "sublime_text_2", "1.1.1"
+github "java",           "1.1.0"
+github "firefox",        "1.0.6"
+github "erlang",         "1.0.0"
+github "autoconf",       "1.0.0"
+github "libtool",        "1.0.0"
+github "onepassword",    "1.0.1"
+github "textmate",       "1.1.0"
+github "iterm2",         "1.0.2"
+github "cassandra",      "1.0.1"
+github "wget",           "1.0.0"
+github "vagrant",        "2.0.7"
+github "heroku",         "2.0.0"
+github "redis",          "1.0.0"
+github "python",		     "1.2.0"
+github "colloquy",		   "1.0.0"
+github "eclipse",        "2.0.0"
